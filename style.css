@@ -1,0 +1,49 @@
+body{
+  color:black;
+background-color: whitesmoke;
+}
+.jumbotron
+{
+  color: antiquewhite;
+  background-image: url("bg.jpg");
+  background-repeat: no-repeat;
+background-position: center;
+}
+table {
+    border-collapse: collapse;
+  }
+table, th, td {
+    border: 1px solid black;
+  }
+
+  .tname1{
+        display: inline;
+  }
+  .tname2{
+    position: relative;
+    
+  bottom: 385px;
+  left:100px;
+    
+    display: inline;
+  }
+  .tables{
+   
+    position: relative;
+    text-align: center;
+    
+  
+
+  }
+.maintable1{
+   position: relative;
+ display: inline-block;
+  }
+
+.maintable2{
+  
+
+   display:inline-block;
+   position: relative;  
+
+}
